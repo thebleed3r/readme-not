@@ -32,7 +32,8 @@
 ```bash
     npx readme-not
 ```
-    or, if installed globally:
+or, if installed globally:
+    
 ```bash
     readme-not
 ```
@@ -43,10 +44,10 @@ Answer the interactive questions to generate your README!
 ```bash
     npx readme-not
 ```
-    ? Project name: my-awesome-project
-    ? Short description: A project to make the world a better place
-    ...
-    A README.md file will be generated at your project root.
+? Project name: my-awesome-project
+? Short description: A project to make the world a better place
+...
+A README.md file will be generated at your project root.
 
 
 ## 🧩 Built With
