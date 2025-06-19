@@ -61,11 +61,11 @@ A README.md file will be generated at your project root.
  - Npm package: [npmjs.com/package/readme-not](https://www.npmjs.com/package/readme-not)
 
 ## 📝 License
-    ISC
+ISC
 
 ## 🤝 Contributing
-    Contributions are welcome!
-    <!-- Please read CONTRIBUTING.md for guidelines. -->
+Contributions are welcome!
+<!-- Please read CONTRIBUTING.md for guidelines. -->
 
 ## 🚦 Versions
 | Version | Date       | Notes         |
@@ -74,4 +74,4 @@ A README.md file will be generated at your project root.
 
 
 ## 💡 About
-    A simple yet powerful tool to help developers create beautiful, standardized README files for their projects.
+A simple yet powerful tool to help developers create beautiful, standardized README files for their projects.
