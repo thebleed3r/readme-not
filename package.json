@@ -1,0 +1,26 @@
+{
+  "name": "readme-not",
+  "version": "0.1.0",
+  "description": "Generate README files interactively",
+  "bin": {
+    "readme-not": "dist/cli.js"
+  },
+  "files": ["dist", "templates"],
+  "scripts": {
+    "build": "tsc && copyfiles -f src/templates/* dist/templates",
+    "start": "node dist/cli.js"
+  },
+  "keywords": ["readme", "generator", "cli", "markdown"],
+  "author": "thebleed3r",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "copyfiles": "^2.4.1",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/inquirer": "^9.0.8",
+    "inquirer": "^12.6.3"
+  }
+}
